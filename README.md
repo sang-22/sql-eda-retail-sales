@@ -182,5 +182,5 @@ ORDER BY month_start;
 
 ## Author
 
-**Santosh Gundumalla**: Power BI & Data Analyst
+**Santosh Gundumalla**: Data Analyst / BI Developer 
 [LinkedIn](https://www.linkedin.com/in/gundumallasantosh/) · [GitHub](https://github.com/sang-22)
