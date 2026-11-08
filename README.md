@@ -118,6 +118,28 @@ All 40 questions are answered in [`sql/06_business_insights.sql`](sql/06_busines
 39. RFM segmentation (Recency, Frequency, Monetary)
 40. Reusable reporting view for Power BI
 
+## Results
+
+### Data setup and cleaning
+| Tables | Cleaning check |
+|---|---|
+| ![Tables](images/01_database_tables.png) | ![Cleaning](images/02_data_cleaning.png) |
+
+### Headline KPIs
+![KPIs](images/03_kpis.png)
+
+### Sales trends
+| Month-over-month growth | 2023 vs 2022 by month |
+|---|---|
+| ![MoM](images/04_mom_growth.png) | ![YoY](images/05_yoy_by_month.png) |
+
+### Customers
+| Pareto | Retention |
+|---|---|
+| ![Pareto](images/06_pareto.png) | ![Retention](images/07_retention.png) |
+
+![RFM segments](images/08_rfm_segments.png)
+
 ## Key Insights
 
 | KPI | Value |
