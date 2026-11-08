@@ -1,4 +1,4 @@
-# Retail Sales Analysis | SQL Server EDA
+# Retail Sales Analysis | SQL EDA
 
 Exploratory data analysis of 2 years of retail transactions (Jan 2022 – Dec 2023) using **Microsoft SQL Server**. The project covers loading raw CSV data, cleaning it, profiling it and answering business questions about sales trends, categories, customers and timing.
 
