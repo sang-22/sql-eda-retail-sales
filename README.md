@@ -28,7 +28,7 @@ Amounts are shown in ₹ (the source data has no currency).
 
 ## Tools
 
-- Microsoft SQL Server 2019 / 2022 (needs 2017+ for `TRIM`, `CONCAT_WS`, `BULK INSERT ... FORMAT='CSV'`)
+- Microsoft SQL Server 2022 
 - SQL Server Management Studio (SSMS)
 
 
