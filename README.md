@@ -123,7 +123,7 @@ All 40 questions are answered in [`sql/06_business_insights.sql`](sql/06_busines
 ### Data setup and cleaning
 | Tables | Cleaning check |
 |---|---|
-| ![Tables](images/01_database_tables.png) | ![Cleaning](images/02_data_cleaning.png) |
+![Tables](images/01_database_tables.png.png) | ![Cleaning](images/02_data_cleaning.png) |
 
 ### Headline KPIs
 ![KPIs](images/03_kpis.png)
@@ -138,7 +138,7 @@ All 40 questions are answered in [`sql/06_business_insights.sql`](sql/06_busines
 |---|---|
 | ![Pareto](images/06_pareto.png) | ![Retention](images/07_retention.png) |
 
-![RFM segments](images/08_rfm_segments.png)
+![RFM segments](images/rfm_segments.png)
 
 ## Key Insights
 
